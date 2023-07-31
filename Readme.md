@@ -19,7 +19,7 @@ Projeto construído para reforçar os conhecimentos adquiridos em Javascript!
 
 ## 💻 Projeto
 
-O Mini-projeto Lâmpada simula um interruptor com um botão que apaga e outro que acende a luz, e com um duplo clique a lâmpada é quebrada.
+O Mini-projeto Lâmpada simula um interruptor com um botão que apaga e outro que acende a luz, foi adicionado também um hoover para acender a lâmpada quando o mouse passa sobre ela e quando sai ela se apaga, com um duplo clique a lâmpada se quebra.
 
 # 💛 Contato
 
