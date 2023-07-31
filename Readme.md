@@ -8,7 +8,7 @@
 
 Projeto construído para reforçar os conhecimentos adquiridos em Javascript!
 
-[ 🔗 Clique aqui para acessar](https://projeto-womens-cup.vercel.app/)
+[ 🔗 Clique aqui para acessar](https://mini-projeto-lampada.vercel.app/)
 
 ## 🚀 Tecnologias
 
